@@ -1,0 +1,1 @@
+This is an app that allows you to search for movies. It will also show you the year they were released. 
